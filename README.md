@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSS Card Flip
 
 **Requirements**: Using the starter HTML, CSS, and images, do the following:
@@ -7,3 +8,6 @@
  - On hover, hide `.primary` and show `.secondary`
  - Set up a transition so that you have a smooth crossfade on hover
  - Switch your portfolio to use 3D rotations to produce a card-flip effect
+=======
+# card-flip
+>>>>>>> 7b4a845f39285a30f80e59e90ebe25e75b0f41a8

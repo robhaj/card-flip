@@ -1,7 +1,6 @@
 /*
 	Starter page styles
 */
-
 body {
 	margin: 0;
 	padding: 40px;
@@ -9,11 +8,9 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 12px;
 }
-
 #portfolio {
 	margin: 0;
 }
-
 #portfolio .portfolio-item {
 	display: block;
 	float: left;
@@ -22,7 +19,6 @@ body {
 	-webkit-perspective: 600px;
 	margin: 10px;
 }
-
 #portfolio .portfolio-item .primary,
 #portfolio .portfolio-item .secondary {
 	display: block;
@@ -34,13 +30,11 @@ body {
 	border-radius: 10px;
 	overflow: hidden;
 }
-
 #portfolio .portfolio-item .secondary {
 	padding: 20px;
 	width: 160px;
 	height: 160px;
 }
-
 #portfolio .portfolio-item .secondary h2 {
 	margin-top: 0px;
 }

@@ -1,1 +1,22 @@
 /* add your styles here */
+.secondary {
+	margin-bottom: 800px;
+	position: absolute
+	backface-visibility: hidden;
+	transform: rotateY(-180deg);
+}
+.primary {
+  position: absolute;
+	backface-visibility: hidden;
+}
+.portfolio-item {
+	position: relative;
+}
+.portfolio-item:hover .primary {
+	transform: rotateY( -180deg );
+	transition-duration: 2s;
+}
+.portfolio-item:hover .secondary {
+	transform:rotateY(0deg);
+	transition-duration: 2s;
+}
